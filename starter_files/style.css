@@ -22,6 +22,8 @@ div#site_header nav a {
   font-family: Arial
 }
 
+.blue link {
+  }
 #site_header {
   padding: 40px;
 }
@@ -29,4 +31,60 @@ div#site_header nav a {
 .main_navigation a {
   font-family: Arial;
   text-decoration: none;
+  color: white;
+  border-width: medium;
 }
+
+p { font-family: sans-serif;
+}
+
+}
+#page_content section {
+  margin-bottom:5.9em;
+  height:1px;
+  margin-bottom: 0.85em;
+  line-height: normal;
+  display: block;height:  1px;
+  border:0;
+  border-top:1px solid #ccc;
+  margin: 1em 0;
+  padding:  0;
+}
+
+h2, h3 {
+  color: #1fabe5;
+  font-family: Helvetica;
+  margin-top: 0.90em;
+  margin-bottom: 2.9em;
+}
+
+.some-class {
+border-left: 1px solid #e2e2e2;
+
+
+}
+/*.line-separator {
+  height:1px;
+
+  background:#717171;
+
+  border-bottom:1px solid #313030
+
+}
+*/
+.table h2 {
+  display: block;height:  1px;
+  border-top:1px solid #ccc;
+  margin: 1em 0;
+  padding:  0;
+
+
+
+}
+
+p ul li { font-family: Helvetica;
+
+}
+
+ul li{ font-weight: bold;
+      font-family: sans-serif;
